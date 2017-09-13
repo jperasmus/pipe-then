@@ -1,5 +1,5 @@
 {
-  "name": "pipe-then",
+  "name": "fp-pipe-then",
   "version": "1.0.1",
   "description": "A better implementation of the \"pipe\" FP function that allows for piping both synchronous and asynchronous functions.",
   "main": "index.js",
